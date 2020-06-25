@@ -1,3 +1,3 @@
 # Django-App
-Learning about Django   
+Learning Django   
 TreinaWeb curso   
